@@ -1,0 +1,50 @@
+nav{
+    margin: 10px;
+    color: gray;
+    background-color: darkslategrey;
+    
+}
+
+ul li{
+    display: inline-block;
+    padding: 10px;
+    
+}
+
+#white{
+    background-color: white;
+}
+
+.carousel{
+    height: 200px;
+    width: auto;
+    background-color: lightgray;
+}
+
+section h2{
+    padding: 30px;
+    text-align: center;
+}
+
+.blocks article{
+    height: 400px;
+    width: 400px;
+    margin: 50px;
+    background-color: lightgray;
+    display: inline-block;
+}
+
+input{
+    display: block;
+    margin: 50px;
+    height: 10px;
+    width: 1400px;
+    
+}
+
+textarea{
+    margin-right: 50px;
+    margin-left: 50px;
+    height: 150px;
+    width: 1400px;
+}
